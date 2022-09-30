@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664490706 source:c:\users\gabz\documents\code\c\tde01_validadorcpf\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
